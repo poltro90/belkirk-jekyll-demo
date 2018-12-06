@@ -1,0 +1,13 @@
+---
+label: marione
+hide_body: true
+is_partial: true
+display_field: urca
+fields:
+- type: include
+  label: Urca
+  name: urca
+- type: number
+  default: '1'
+  label: zurca
+  name: zurca
