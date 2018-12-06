@@ -10,5 +10,5 @@ fields:
   default: post
 pages:
 - _posts/marco/2018-12-06-my-post-1.md
-- _posts/marco/02.md
 - _posts/marco/2018-12-06-01.md
+- _posts/marco/2018-12-06-02.md
