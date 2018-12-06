@@ -9,4 +9,4 @@ My awesome blog post about my awesome stuff
 ![Another boring image](/uploads/2018/02/17/building3.jpg "Title of the image")Alooora
 
 * Cool
-* 
+* Asd
